@@ -1,0 +1,9 @@
+body{
+    background-color: #7fffd4;
+}
+
+img{
+    height: 400px !important;
+    object-fit: cover;
+}
+
